@@ -1,0 +1,32 @@
+input[type="text"] {
+    width: 75%;
+    border: 1px solid black;
+}
+
+h1 {
+    text-align: center;
+    color: red;
+}
+
+form {
+    padding: 30px;
+    color: yellow;
+    
+    
+}
+.container {
+    width: 50%;
+    text-align: center;
+    background-color: yellow;
+    border: 2px solid black;
+    border-radius: 5px;
+  }
+  
+.form {
+    display: inline-block;
+    margin: 0 auto;
+    padding: 3px;
+    background-color: blue;
+    border: 1px solid black;
+    border-radius: 10px;
+  }
